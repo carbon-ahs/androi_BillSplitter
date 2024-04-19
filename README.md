@@ -1,8 +1,8 @@
 # android_BillSplitter
 Language : Kotlin
-JetPack Compose used in this project
-Also practiced Dark/Light mood.
-Internationalization Implemented (english to other language)
+JetPack Compose used in this project \n
+Also practiced Dark/Light mood. \n
+Internationalization Implemented (english to other language) \n
 
 
 
